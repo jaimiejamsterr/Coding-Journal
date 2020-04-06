@@ -1,0 +1,76 @@
+                                  /* Tag selectors */
+body{
+  background-color:#F6FFF8;
+    }
+
+hr {
+  border-style:dotted none none;
+  color:#1D566E;
+  }
+h1 {
+    background-color:#163A5F;
+    color:white;
+    text-align:center;
+  }
+h2 {
+  font-size:80%;
+  font-style:italic;
+  color:#999;
+}
+img {
+  height:500px;
+  }
+                                  /* Class selectors */
+.finishedat{
+  color:lightblue;
+  font-size:65%;
+  text-align:right;
+}
+.hover:hover{
+  background-color: #FF9999;
+  font-style:italic;
+}
+
+.day9{
+  background-color: #B6DCFE;
+  margin-top:0;
+  margin-bottom:0;
+}
+.top-container{
+  height:200px;
+  width:200px;
+  border:solid;
+  border-width: 10px;
+  border-color: #5D5D92;
+  background-color:#614F7D;
+}
+.middle-container{
+  height:200px;
+  width:200px;
+  position:relative;
+  left: 220px;
+  border:solid;
+  border-width: 20px;
+  border-color:#657B9D;
+  background-color:#5D5D92;
+}
+.bottom-container{
+  height:200px;
+  width:200px;
+  margin-left:460px;
+  border:solid;
+  border-width: 10px;
+  border-color:#614F7D;
+  background-color:#657B9D;
+}
+.visibility{
+  visibility: hidden
+}
+.sacramento{
+  font-family: 'Sacramento', cursive;
+}
+                                  /* ID selectors */
+#learnt {
+  background-color:#6C567B;
+  color:white;
+}
